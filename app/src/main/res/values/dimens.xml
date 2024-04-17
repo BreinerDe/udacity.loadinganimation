@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fabMargin">16dp</dimen>
+    <dimen name="standardMargin">16dp</dimen>
+    <dimen name="startMargin">40dp</dimen>
+    <dimen name="resultMargin">20dp</dimen>
+
+    <dimen name="defaultTextSize">20sp</dimen>
+    <dimen name="strokeWidth">4dp</dimen>
+    <dimen name="progressRadius">20dp</dimen>
+    <dimen name="paddingRightProgressRadius">20dp</dimen>
+
+</resources>
